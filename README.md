@@ -95,6 +95,13 @@
 </div>
 
 <br/>
+<br/>  
+
+
+## Github Activity Status 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Siri-durga&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Siri-durga&&style=flat-square" align="center" />

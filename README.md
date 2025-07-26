@@ -8,7 +8,7 @@
 ---
 
 ### 👩‍💻 About Me
-<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2xnaHJyOXBmc21qd3cwMWI2a2tyc3lmMnpubzdydWpoZGp6aWNncyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OumCa12QC9CIvBe2c1/giphy.gif" width="300px"/>
+
 
 - 🎓 I'm currently pursuing **B.Tech in Computer Science and Engineering** at *Aditya University*
 - 🚀 I'm working on projects involving **AI, Web Development, and Real-Time Applications**
@@ -31,13 +31,24 @@
 
 ---
 
-### 📂 Featured Project
+###  📂 Featured Projects
+
 - 📚 **Smart Exam Seating Allocation System**  
-  🚀 AI-enhanced web application that uses semantic techniques to intelligently generate room-wise student seating and attendance PDFs, handling series-based roll numbers, alternate placements, and multiple constraints for smoother exam coordination.
+  A web app that intelligently generates seating plans and attendance PDFs using semantic techniques.  
+  Designed for handling roll number series, alternate placements, and real-time PDF creation.  
+  🔗 *[GitHub Repository](https://github.com/Siri-durga/Smart-Exam-Seating-Allocation-System)*
+
+- 🌐 **Personal Portfolio Website**  
+  A sleek, responsive website showcasing my skills, certifications, and project work.  
+  Built with HTML, CSS, and JavaScript to reflect my developer journey and personality.  
+  🔗 *[Visit Portfolio](https://dsiriportfolio.netlify.app/)* | *[GitHub Repository](https://github.com/Siri-durga/My-Portfolio)*
 
 ---
 
 ### 🏆 Achievements & Certifications
+<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2xnaHJyOXBmc21qd3cwMWI2a2tyc3lmMnpubzdydWpoZGp6aWNncyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OumCa12QC9CIvBe2c1/giphy.gif" width="300px"/>
+
+
 - 🥇 Red Hat Certified in Python
 - 🥈 Oracle Java Foundations, Fundamentals, and Programming Certificates
 - 📜 HackerRank Certified in SQL
@@ -74,17 +85,25 @@
 
 ## 🌐 Connect with Me
 
-
 <div align="center">
-<a href="https://github.com/Siri-durga" target="_blank">
-<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/durga-lalitha-sri-varshitha-138747320/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/_siri_4764" target="_blank">
-<img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
-</a>  
+  <a href="https://github.com/Siri-durga" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/durga-lalitha-sri-varshitha-138747320/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/_siri_4764" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://leetcode.com/u/dlsvarshitha/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/dlsvars7heu/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-%2300FF00.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+  </a>
+  <a href="https://www.codechef.com/users/durgasiri" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-%2300A7B5.svg?&style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
 </div>
 
 ---

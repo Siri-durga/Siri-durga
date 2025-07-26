@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Siri</h1>
+<h1 align="center">Hi 👋, I'm Durga Lalitha Sri Varshitha</h1>
 <h3 align="center">A passionate Computer Science & Engineering Student | Code Enthusiast | Developer in Progress 🚀</h3>
 
 <p align="center">

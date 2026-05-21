@@ -107,24 +107,26 @@
 </div>
 
 ---
-
 ## 📊 GitHub Stats
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siri-durga&hide_border=true&layout=compact" align="center" />
+<img src="https://github-readme-stats-lyart-six-24.vercel.app/api/top-langs/?username=Siri-durga&hide_border=true&layout=compact&langs_count=6" align="center" alt="Top Languages" />
 </div>
 
 <br/>
-<br/>  
+<br/>
 
-
-## Github Activity Status 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Siri-durga&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+## Github Activity Status
+<div align="center">
+<img src="https://github-readme-stats-lyart-six-24.vercel.app/api?username=Siri-durga&show_icons=true&count_private=true&hide_border=true" align="center" alt="GitHub Stats" />
+</div>
 
 <br/>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Siri-durga&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=Siri-durga&style=flat-square" align="center" alt="Profile Views" />
 </div>
+
+---
 
 ---
 
